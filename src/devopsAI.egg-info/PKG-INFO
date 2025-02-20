@@ -1,11 +1,11 @@
 Metadata-Version: 2.2
 Name: devopsAI
-Version: 0.1.2
+Version: 0.1.1
 Summary: A utility for executing system commands via AI Agent
 Author-email: Dineshkanna <kannadinesh.m@gmail.com>
 License: SQUAPL
-Project-URL: Homepage, https://github.com/yourusername/cmdexecutor
-Project-URL: Bug Tracker, https://github.com/yourusername/cmdexecutor/issues
+Project-URL: Homepage, https://github.com/Dineshkanna654/devops
+Project-URL: Bug Tracker, https://github.com/Dineshkanna654/devops/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: Other/Proprietary License
 Classifier: Operating System :: OS Independent

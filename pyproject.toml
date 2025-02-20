@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "devopsAI"
-version = "0.1.2"
+version = "0.1.1"
 description = "A utility for executing system commands via AI Agent"
 readme = "README.md"
 authors = [
@@ -22,8 +22,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/cmdexecutor"
-"Bug Tracker" = "https://github.com/yourusername/cmdexecutor/issues"
+"Homepage" = "https://github.com/Dineshkanna654/devops"
+"Bug Tracker" = "https://github.com/Dineshkanna654/devops/issues"
 
 [project.scripts]
 ai = "devopsai.cli:main"

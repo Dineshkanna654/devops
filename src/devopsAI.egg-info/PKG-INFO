@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: devopsAI
-Version: 0.1.0
+Version: 0.1.2
 Summary: A utility for executing system commands via AI Agent
 Author-email: Dineshkanna <kannadinesh.m@gmail.com>
 License: SQUAPL
@@ -26,3 +26,13 @@ export DEVOPSAI_API_URL="https://your-api-endpoint.com/v1/completions"
 
 # Set the API key (if required)
 export DEVOPSAI_API_KEY="your-api-key"
+```
+
+## usage
+
+```bash
+ai <your query>
+
+ai check python version
+```
+

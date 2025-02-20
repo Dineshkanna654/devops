@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "devopsAI"
-version = "0.1.0"
+version = "0.1.2"
 description = "A utility for executing system commands via AI Agent"
 readme = "README.md"
 authors = [

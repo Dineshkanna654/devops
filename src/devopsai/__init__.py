@@ -2,5 +2,5 @@
 
 from .core import execute_commands, extract_commands, call_api
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"
 __all__ = ["execute_commands", "extract_commands", "call_api"]
